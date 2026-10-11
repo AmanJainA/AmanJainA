@@ -129,11 +129,9 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 <p align="center">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="44" alt="MySQL" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="44" alt="Supabase" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/IBM_DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Db2" />
-  <img src="https://img.shields.io/badge/MySQLi-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQLi" />
+  <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" height="44" alt="Microsoft SQL Server" />
+
+<img src="https://img.shields.io/badge/IBM_DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" height="44" alt="IBM Db2" />
 </p>
 
 <p align="center"><strong>05 · Developer tools & collaboration</strong></p>
