@@ -128,8 +128,9 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Db2" />
+  <img src="https://img.shields.io/badge/MySQLi-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQLi" />
 </p>
-<p align="center"><sub>MySQL · Microsoft SQL Server · IBM Db2 · Supabase</sub></p>
+<p align="center"><sub>MySQL · MySQLi · Microsoft SQL Server · IBM Db2 · Supabase</sub></p>
 
 <p align="center"><strong>05 · Developer tools & collaboration</strong></p>
 <p align="center">
