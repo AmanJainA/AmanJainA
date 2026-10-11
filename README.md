@@ -78,12 +78,7 @@ I enjoy bringing structure to complex problems—whether that's building an appl
       <a href="https://github.com/AmanJainA/Notes"><img src="https://img.shields.io/badge/Explore-Repository-0F766E?style=flat-square&logo=github" alt="Explore Notes" /></a>
     </td>
   </tr>
-  <tr>
-    <td colspan="2">
-      <h3>✨ <a href="https://github.com/AmanJainA/MyMy">MyMy</a></h3>
-      A web project and space for development experiments.
-    </td>
-  </tr>
+  
 </table>
 
 ## 📈 GitHub at a Glance
