@@ -107,7 +107,11 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 <img src="https://skillicons.dev/icons?i=php,nodejs&perline=4" alt="PHP and Node.js" />
 
-<p><sub>AJAX · REST APIs · API integration</sub></p>
+<p>
+  <img src="https://img.shields.io/badge/AJAX-2C3E50?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=for-the-badge&logo= fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/API%20Integration-334155?style=for-the-badge&logo=linktree&logoColor=white" alt="API integration" />
+</p>
 
 ### 03 · Mobile development
 
@@ -115,17 +119,28 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 ### 04 · Databases
 
-<img src="https://skillicons.dev/icons?i=mysql&perline=4" alt="MySQL" />
-
-<p><sub>Microsoft SQL Server · IBM DB2</sub></p>
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql&perline=1" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/IBM%20DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2" />
+</p>
 
 ### 05 · Developer tools & collaboration
 
-<img src="https://skillicons.dev/icons?i=git,github,postman&perline=4" alt="Git, GitHub and Postman" />
+<img src="https://skillicons.dev/icons?i=git,github,postman&perline=3" alt="Git, GitHub and Postman" />
 
 ### 06 · Consulting, data & business analysis
 
-<p><sub>Data analysis · Business analysis · Market research · Stakeholder engagement · Field surveys · Report writing · Presentations · Digital transformation</sub></p>
+<p>
+  <img src="https://img.shields.io/badge/📊%20Data%20Analysis-0F766E?style=for-the-badge" alt="Data analysis" />
+  <img src="https://img.shields.io/badge/📈%20Business%20Analysis-2563EB?style=for-the-badge" alt="Business analysis" />
+  <img src="https://img.shields.io/badge/🔎%20Market%20Research-7C3AED?style=for-the-badge" alt="Market research" />
+  <img src="https://img.shields.io/badge/🤝%20Stakeholder%20Engagement-0F766E?style=for-the-badge" alt="Stakeholder engagement" />
+  <img src="https://img.shields.io/badge/📝%20Field%20Surveys-B45309?style=for-the-badge" alt="Field surveys" />
+  <img src="https://img.shields.io/badge/📄%20Report%20Writing-475569?style=for-the-badge" alt="Report writing" />
+  <img src="https://img.shields.io/badge/📊%20Presentations-9333EA?style=for-the-badge" alt="Presentations" />
+  <img src="https://img.shields.io/badge/⚙️%20Digital%20Transformation-334155?style=for-the-badge" alt="Digital transformation" />
+</p>
 
 </div>
 
