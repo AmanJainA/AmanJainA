@@ -109,9 +109,6 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
   <img src="https://go-skill-icons.vercel.app/api/icons?i=php,nodejs&perline=2" alt="PHP and Node.js" />
 </p>
 <p align="center">
-  <img src="https://img.shields.io/badge/AJAX-1572B6?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX" />
-  <img src="https://img.shields.io/badge/REST_APIs-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
-  <img src="https://img.shields.io/badge/API_Integration-334155?style=for-the-badge&logo=linktree&logoColor=white" alt="API integration" />
 </p>
 
 <p align="center"><strong>03 · Mobile development</strong></p>
