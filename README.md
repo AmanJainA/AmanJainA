@@ -97,52 +97,55 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 ## Tools & capabilities
 
-<div align="center">
+<p align="center"><strong>01 · Frontend development</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react&perline=6" alt="HTML, CSS, JavaScript, Bootstrap, jQuery, React" />
+</p>
+<p align="center">
+  <sub>HTML · CSS · JavaScript · Bootstrap · jQuery · React</sub>
+</p>
 
-### 01 · Frontend development
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react&perline=6" alt="HTML, CSS, JavaScript, Bootstrap, jQuery and React" />
-
-### 02 · Backend development & APIs
-
-<img src="https://skillicons.dev/icons?i=php,nodejs&perline=4" alt="PHP and Node.js" />
-
-<p>
-  <img src="https://img.shields.io/badge/AJAX-2C3E50?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX" />
+<p align="center"><strong>02 · Backend development & APIs</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,nodejs&perline=2" alt="PHP and Node.js" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/AJAX-1572B6?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX" />
   <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/API%20Integration-334155?style=for-the-badge&logo=linktree&logoColor=white" alt="API integration" />
 </p>
 
-### 03 · Mobile development
+<p align="center"><strong>03 · Mobile development</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio&perline=2" alt="Flutter and Android development" />
+</p>
+<p align="center"><sub>Flutter · Android</sub></p>
 
-<img src="https://skillicons.dev/icons?i=flutter,android&perline=4" alt="Flutter and Android" />
-
-### 04 · Databases
-
-<p>
+<p align="center"><strong>04 · Databases</strong></p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql&perline=1" alt="MySQL" />
+</p>
+<p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
-  <img src="https://img.shields.io/badge/IBM%20DB2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM DB2" />
+  <img src="https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Db2" />
 </p>
 
-### 05 · Developer tools & collaboration
-
-<img src="https://skillicons.dev/icons?i=git,github,postman&perline=3" alt="Git, GitHub and Postman" />
-
-### 06 · Consulting, data & business analysis
-
-<p>
-  <img src="https://img.shields.io/badge/📊%20Data%20Analysis-0F766E?style=for-the-badge" alt="Data analysis" />
-  <img src="https://img.shields.io/badge/📈%20Business%20Analysis-2563EB?style=for-the-badge" alt="Business analysis" />
-  <img src="https://img.shields.io/badge/🔎%20Market%20Research-7C3AED?style=for-the-badge" alt="Market research" />
-  <img src="https://img.shields.io/badge/🤝%20Stakeholder%20Engagement-0F766E?style=for-the-badge" alt="Stakeholder engagement" />
-  <img src="https://img.shields.io/badge/📝%20Field%20Surveys-B45309?style=for-the-badge" alt="Field surveys" />
-  <img src="https://img.shields.io/badge/📄%20Report%20Writing-475569?style=for-the-badge" alt="Report writing" />
-  <img src="https://img.shields.io/badge/📊%20Presentations-9333EA?style=for-the-badge" alt="Presentations" />
-  <img src="https://img.shields.io/badge/⚙️%20Digital%20Transformation-334155?style=for-the-badge" alt="Digital transformation" />
+<p align="center"><strong>05 · Developer tools & collaboration</strong></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman&perline=3" alt="Git, GitHub and Postman" />
 </p>
 
-</div>
+<p align="center"><strong>06 · Consulting, data & business analysis</strong></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analysis-0F766E?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data analysis" />
+  <img src="https://img.shields.io/badge/Business%20Analysis-2563EB?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Business analysis" />
+  <img src="https://img.shields.io/badge/Market%20Research-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Market research" />
+  <img src="https://img.shields.io/badge/Stakeholder%20Engagement-0F766E?style=for-the-badge&logo=handshake&logoColor=white" alt="Stakeholder engagement" />
+  <img src="https://img.shields.io/badge/Field%20Surveys-B45309?style=for-the-badge&logo=googleforms&logoColor=white" alt="Field surveys" />
+  <img src="https://img.shields.io/badge/Report%20Writing-475569?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Report writing" />
+  <img src="https://img.shields.io/badge/Presentations-9333EA?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white" alt="Presentations" />
+  <img src="https://img.shields.io/badge/Digital%20Transformation-334155?style=for-the-badge&logo=opsgenie&logoColor=white" alt="Digital transformation" />
+</p>
 
 ## GitHub at a glance
 
