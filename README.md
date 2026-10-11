@@ -121,14 +121,15 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 </p>
 <p align="center"><sub>Flutter · Android</sub></p>
 
-<p align="center"><strong>04 · Databases</strong></p>
+<p align="center"><strong>04 · Databases & backend platforms</strong></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql&perline=1" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=mysql,supabase&perline=2" alt="MySQL and Supabase" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
   <img src="https://img.shields.io/badge/IBM%20Db2-054ADA?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM Db2" />
 </p>
+<p align="center"><sub>MySQL · Microsoft SQL Server · IBM Db2 · Supabase</sub></p>
 
 <p align="center"><strong>05 · Developer tools & collaboration</strong></p>
 <p align="center">
