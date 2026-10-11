@@ -100,13 +100,19 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 <p align="center"><strong>01 · Frontend development</strong></p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,javascript,bootstrap,jquery,react&perline=6" alt="HTML, CSS, JavaScript, Bootstrap, jQuery and React" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="44" alt="HTML" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="44" alt="CSS" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="44" alt="JavaScript" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" width="44" alt="Bootstrap" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery" width="44" alt="jQuery" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="44" alt="React" />
 </p>
 
 <p align="center"><strong>02 · Backend development & APIs</strong></p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,nodejs&perline=2" alt="PHP and Node.js" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php" width="44" alt="PHP" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="44" alt="Node.js" />
 </p>
 <p align="center">
 </p>
@@ -114,13 +120,15 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 <p align="center"><strong>03 · Mobile development</strong></p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,androidstudio&perline=2" alt="Flutter and Android Studio" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" width="44" alt="Flutter" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" width="44" alt="Android Studio" />
 </p>
 
 <p align="center"><strong>04 · Databases & backend platforms</strong></p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql,supabase&perline=2" alt="MySQL and Supabase" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="44" alt="MySQL" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="44" alt="Supabase" />
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
@@ -131,7 +139,9 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 <p align="center"><strong>05 · Developer tools & collaboration</strong></p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git,github,postman&perline=3" alt="Git, GitHub and Postman" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="44" alt="Git" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="44" alt="GitHub" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="44" alt="Postman" />
 </p>
 
 <p align="center"><strong>06 · Consulting, data & business analysis</strong></p>
