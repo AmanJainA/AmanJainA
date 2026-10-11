@@ -29,8 +29,8 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 - **Current role:** Senior Associate — Consultant & Data Analyst at **Nangia & Co. LLP**.
 - **Consulting:** Supporting Railway Board initiatives through TT&BRU, including business research, commercial studies, stakeholder consultations, field surveys, reports, and digital transformation.
 - **Development:** Responsive web applications, APIs, database-backed platforms, and productivity tools.
-- **Location:** New Delhi, India.
-- **Portfolio:** [amanjaina.github.io/Portfolio](https://amanjaina.github.io/Portfolio/)
+- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="18" height="18" alt="Location" /> **Location:** New Delhi, India.
+- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/briefcase-business.svg" width="18" height="18" alt="Portfolio" /> **Portfolio:** [amanjaina.github.io/Portfolio](https://amanjaina.github.io/Portfolio/)
 
 <div align="center">
   <img src="./assets/workflow-motion.svg" alt="Animated workflow: Build, Analyse, Improve — featuring LifeHub, Railways, Interview and Notes" width="100%" />
