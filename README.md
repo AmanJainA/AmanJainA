@@ -95,21 +95,39 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
   <a href="https://github.com/AmanJainA?tab=repositories">VIEW ALL REPOSITORIES →</a>
 </p>
 
-## Tools I work with
+## Tools & capabilities
 
 <div align="center">
 
-**Development & platforms**
+### 01 · Frontend development
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,bootstrap,jquery,flutter,android&perline=10" alt="Development stack: HTML, CSS, JavaScript, PHP, React, Node.js, Bootstrap, jQuery, Flutter and Android" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react&perline=6" alt="HTML, CSS, JavaScript, Bootstrap, jQuery and React" />
 
-**Data, databases & workflow**
+### 02 · Backend development & APIs
 
-<img src="https://skillicons.dev/icons?i=mysql,git,github,postman&perline=8" alt="MySQL, Git, GitHub and Postman" />
+<img src="https://skillicons.dev/icons?i=php,nodejs&perline=4" alt="PHP and Node.js" />
+
+<p><sub>AJAX · REST APIs · API integration</sub></p>
+
+### 03 · Mobile development
+
+<img src="https://skillicons.dev/icons?i=flutter,android&perline=4" alt="Flutter and Android" />
+
+### 04 · Databases
+
+<img src="https://skillicons.dev/icons?i=mysql&perline=4" alt="MySQL" />
+
+<p><sub>Microsoft SQL Server · IBM DB2</sub></p>
+
+### 05 · Developer tools & collaboration
+
+<img src="https://skillicons.dev/icons?i=git,github,postman&perline=4" alt="Git, GitHub and Postman" />
+
+### 06 · Consulting, data & business analysis
+
+<p><sub>Data analysis · Business analysis · Market research · Stakeholder engagement · Field surveys · Report writing · Presentations · Digital transformation</sub></p>
 
 </div>
-
-**Also experienced in:** Microsoft SQL Server · IBM DB2 · AJAX · REST APIs · Data analysis · Business analysis · Market research · Stakeholder engagement · Field surveys · Report writing · Presentations · Digital transformation
 
 ## GitHub at a glance
 
