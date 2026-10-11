@@ -29,8 +29,8 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 - **Current role:** Senior Associate — Consultant & Data Analyst at **Nangia & Co. LLP**.
 - **Consulting:** Supporting Railway Board initiatives through TT&BRU, including business research, commercial studies, stakeholder consultations, field surveys, reports, and digital transformation.
 - **Development:** Responsive web applications, APIs, database-backed platforms, and productivity tools.
-- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/map-pin.svg" width="18" height="18" alt="Location" /> **Location:** New Delhi, India.
-- <img src="https://raw.githubusercontent.com/lucide-icons/lucide/main/icons/briefcase-business.svg" width="18" height="18" alt="Portfolio" /> **Portfolio:** [amanjaina.github.io/Portfolio](https://amanjaina.github.io/Portfolio/)
+- 📍 **Location:** New Delhi, India.
+- 💼 **Portfolio:** [amanjaina.github.io/Portfolio](https://amanjaina.github.io/Portfolio/)
 
 <div align="center">
   <img src="./assets/workflow-motion.svg" alt="Animated workflow: Build, Analyse, Improve — featuring LifeHub, Railways, Interview and Notes" width="100%" />
@@ -159,10 +159,15 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&show_icons=true&hide_border=true&bg_color=080B12&title_color=67E8F9&icon_color=2DD4BF&text_color=E2E8F0&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&layout=compact&hide_border=true&bg_color=080B12&title_color=67E8F9&text_color=E2E8F0" alt="Most used programming languages" />
+  <!-- Dark-mode stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&show_icons=true&hide_border=true&bg_color=080B12&title_color=67E8F9&icon_color=2DD4BF&text_color=E2E8F0&rank_icon=github#gh-dark-mode-only" alt="GitHub profile statistics (dark mode)" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&layout=compact&hide_border=true&bg_color=080B12&title_color=67E8F9&text_color=E2E8F0#gh-dark-mode-only" alt="Most used programming languages (dark mode)" />
+  <!-- Light-mode stats -->
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&show_icons=true&hide_border=true&bg_color=FFFFFF&title_color=0F766E&icon_color=0F766E&text_color=1F2937&rank_icon=github#gh-light-mode-only" alt="GitHub profile statistics (light mode)" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&layout=compact&hide_border=true&bg_color=FFFFFF&title_color=0F766E&text_color=1F2937#gh-light-mode-only" alt="Most used programming languages (light mode)" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=AmanJainA&hide_border=true&background=080B12&ring=67E8F9&fire=BEF264&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=AmanJainA&hide_border=true&background=080B12&ring=67E8F9&fire=BEF264&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC#gh-dark-mode-only" alt="GitHub contribution streak (dark mode)" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=AmanJainA&hide_border=true&background=FFFFFF&ring=0F766E&fire=B45309&currStreakLabel=0F766E&sideLabels=475569&dates=64748B&currStreakNum=1F2937&sideNums=1F2937#gh-light-mode-only" alt="GitHub contribution streak (light mode)" width="75%" />
 </div>
 
 ---
