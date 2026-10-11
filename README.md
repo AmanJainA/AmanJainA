@@ -1,4 +1,4 @@
-<!-- Profile README for github.com/AmanJainA -->
+<!-- Personal profile README — AmanJainA -->
 
 <div align="center">
 
@@ -7,113 +7,132 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=22D3EE&center=true&vCenter=true&width=720&lines=I+build+useful+digital+products;I+turn+data+into+actionable+insights;I+connect+technology%2C+business+%26+strategy;Build.+Analyse.+Improve." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1300&color=67E8F9&center=true&vCenter=true&width=760&lines=I+build+digital+products+with+purpose.;I+turn+data+into+clear+decisions.;I+connect+technology%2C+business+and+strategy.;From+problem+to+practical+solution." alt="Animated introduction" />
 </a>
 
 <p>
-  <a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/AmanJainA?tab=repositories"><img src="https://img.shields.io/badge/Explore-Projects-0891B2?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
-  <img src="https://img.shields.io/badge/Location-New%20Delhi%2C%20India-0F766E?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location: New Delhi, India" />
+  <a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://github.com/AmanJainA?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-Projects-0F766E?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
 </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## A little about me
 
 I'm a **Full Stack Developer and Consultant & Data Analyst** with **6+ years of experience** across software development, data analysis, business analysis, and management consulting.
 
-I enjoy bringing structure to complex problems—whether that's building an application, analysing business data, researching a commercial opportunity, or translating findings into practical recommendations.
+My work sits at the intersection of **technology, evidence, and business outcomes**. I like understanding the real problem first, making sense of the information, and then building or recommending something practical.
 
-- 🧭 **Currently:** Senior Associate – Consultant & Data Analyst at **Nangia & Co. LLP**, supporting Railway Board initiatives through TT&BRU.
-- 📊 **Consulting & analytics:** Business research, commercial studies, stakeholder consultations, field surveys, reporting, and digital transformation.
-- 💻 **Engineering:** Responsive web apps, APIs, database-driven systems, and practical digital tools.
-- 📍 **Based in:** New Delhi, India.
+- **Currently** — Senior Associate – Consultant & Data Analyst at **Nangia & Co. LLP**, supporting Railway Board initiatives through TT&BRU.
+- **Consulting** — Business research, commercial studies, stakeholder consultations, field surveys, reports, and digital transformation.
+- **Engineering** — Web applications, API integrations, database-backed tools, and user-focused digital experiences.
+- **Based in** — New Delhi, India.
 
-## ⚡ My Toolkit
-
-<div align="center">
-
-**Web & Application Development**
-
-<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,bootstrap,jquery,flutter,android&perline=10" alt="Web and application development technologies" />
-
-**Databases & Developer Tools**
-
-<img src="https://skillicons.dev/icons?i=mysql,git,github,postman&perline=8" alt="Databases and developer tools" />
-
-</div>
-
-**Also work with:** Microsoft SQL Server, IBM DB2, AJAX, REST APIs, data analysis, business analysis, market research, stakeholder engagement, and report/presentation development.
-
-## 🚀 Featured Projects
+## What I work across
 
 <table>
   <tr>
-    <td width="50%">
-      <h3>🏡 <a href="https://github.com/AmanJainA/LifeHub">LifeHub</a></h3>
-      Personal productivity and life-management application.
+    <td width="33%" valign="top">
+      <h3>⌘ Build</h3>
+      Design and develop practical digital products, responsive interfaces, APIs, and database-driven applications.
       <br/><br/>
-      <a href="https://github.com/AmanJainA/LifeHub"><img src="https://img.shields.io/badge/Explore-Repository-0F766E?style=flat-square&logo=github" alt="Explore LifeHub" /></a>
+      <sub>FULL STACK · API INTEGRATION · DATABASES</sub>
     </td>
-    <td width="50%">
-      <h3>🚆 <a href="https://github.com/AmanJainA/Railways">Railways</a></h3>
-      Railway-focused web portal project.
+    <td width="33%" valign="top">
+      <h3>◌ Analyse</h3>
+      Turn raw information and research into clear findings, structured reports, and decision-ready insights.
       <br/><br/>
-      <a href="https://github.com/AmanJainA/Railways"><img src="https://img.shields.io/badge/Explore-Repository-0F766E?style=flat-square&logo=github" alt="Explore Railways" /></a>
+      <sub>DATA · BUSINESS ANALYSIS · RESEARCH</sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>↗ Improve</h3>
+      Connect operational needs with business opportunities and implementable recommendations.
+      <br/><br/>
+      <sub>CONSULTING · STRATEGY · DIGITAL TRANSFORMATION</sub>
+    </td>
+  </tr>
+</table>
+
+## Selected work
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏡 <a href="https://github.com/AmanJainA/LifeHub">LifeHub</a></h3>
+      A personal productivity and life-management application.
+      <br/><br/>
+      <a href="https://github.com/AmanJainA/LifeHub"><img src="https://img.shields.io/badge/VIEW%20PROJECT-→-0F766E?style=flat-square" alt="View LifeHub" /></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚆 <a href="https://github.com/AmanJainA/Railways">Railways</a></h3>
+      A railway-focused web portal project.
+      <br/><br/>
+      <a href="https://github.com/AmanJainA/Railways"><img src="https://img.shields.io/badge/VIEW%20PROJECT-→-0F766E?style=flat-square" alt="View Railways" /></a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/AmanJainA/Interview">Interview</a></h3>
-      Interview preparation and MCQ practice application.
+      An interview preparation and MCQ practice application.
       <br/><br/>
-      <a href="https://github.com/AmanJainA/Interview"><img src="https://img.shields.io/badge/Explore-Repository-0F766E?style=flat-square&logo=github" alt="Explore Interview" /></a>
+      <a href="https://github.com/AmanJainA/Interview"><img src="https://img.shields.io/badge/VIEW%20PROJECT-→-0F766E?style=flat-square" alt="View Interview" /></a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📝 <a href="https://github.com/AmanJainA/Notes">Notes</a></h3>
-      A notes application for organising information.
+      A notes application for organising information and ideas.
       <br/><br/>
-      <a href="https://github.com/AmanJainA/Notes"><img src="https://img.shields.io/badge/Explore-Repository-0F766E?style=flat-square&logo=github" alt="Explore Notes" /></a>
+      <a href="https://github.com/AmanJainA/Notes"><img src="https://img.shields.io/badge/VIEW%20PROJECT-→-0F766E?style=flat-square" alt="View Notes" /></a>
     </td>
   </tr>
-  
 </table>
 
-## 📈 GitHub at a Glance
+<p align="center">
+  <a href="https://github.com/AmanJainA?tab=repositories">Explore all repositories →</a>
+</p>
+
+## Tools of the trade
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&show_icons=true&hide_border=true&bg_color=0B1220&title_color=67E8F9&icon_color=2DD4BF&text_color=E2E8F0&rank_icon=github" alt="GitHub profile statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&layout=compact&hide_border=true&bg_color=0B1220&title_color=67E8F9&text_color=E2E8F0" alt="Most used programming languages" />
+**Development**
 
-<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,php,react,nodejs,bootstrap,jquery,flutter,android&perline=10" alt="Development stack" />
 
-<img src="https://streak-stats.demolab.com?user=AmanJainA&hide_border=true&background=0B1220&ring=22D3EE&fire=2DD4BF&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub contribution streak" width="70%" />
+**Databases & workflow**
+
+<img src="https://skillicons.dev/icons?i=mysql,git,github,postman&perline=8" alt="Databases and developer workflow" />
 
 </div>
 
-## 💡 What I Bring
+**Additional experience:** Microsoft SQL Server · IBM DB2 · AJAX · REST APIs · Data analysis · Business analysis · Market research · Stakeholder engagement · Report and presentation development
 
-- **End-to-end development** — from user interfaces to APIs and database integration.
-- **Data-led decision support** — turning information into clear findings and actionable insights.
-- **Consulting and research** — structuring business questions, assessing opportunities, and developing practical recommendations.
-- **Implementation focus** — solutions designed around real requirements, usability, and maintainability.
-
-## 🤝 Let's Build Something Useful
-
-Interested in **software development, data analytics, consulting, or digital transformation**? Let's connect.
+## GitHub activity
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/Connect%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-<a href="https://github.com/AmanJainA?tab=repositories"><img src="https://img.shields.io/badge/See%20my-GitHub%20Projects-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&show_icons=true&hide_border=true&bg_color=080B12&title_color=67E8F9&icon_color=2DD4BF&text_color=E2E8F0&rank_icon=github" alt="GitHub profile statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&layout=compact&hide_border=true&bg_color=080B12&title_color=67E8F9&text_color=E2E8F0" alt="Most used programming languages" />
 
 <br/><br/>
 
-<sub>Thanks for visiting. Explore my work, share an idea, or say hello 👋</sub>
+<img src="https://streak-stats.demolab.com?user=AmanJainA&hide_border=true&background=080B12&ring=67E8F9&fire=BEF264&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" width="75%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:0F766E,100:0891B2&height=110&section=footer" alt="" width="100%" />
+</div>
+
+---
+
+<div align="center">
+
+### Have a problem worth solving?
+
+I'm interested in thoughtful software, data-led decisions, and digital solutions that make work simpler and outcomes better.
+
+<a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/START%20A%20CONVERSATION-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" /></a>
+
+<br/><br/>
+
+<sub>Built with curiosity. Improved through iteration. Always learning.</sub>
 
 </div>
