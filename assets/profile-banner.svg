@@ -1,67 +1,74 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Aman Jain — Developer and Consultant</title>
-  <desc id="desc">A modern midnight-blue banner with flowing cyan and teal data lines, network nodes, and a professional developer identity.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Aman Jain — Technology, Data and Strategy</title>
+  <desc id="desc">A refined dark editorial banner with kinetic typography, an abstract animated orbital system, and a cyan-to-lime accent palette.</desc>
   <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#071426"/>
-      <stop offset=".52" stop-color="#102c55"/>
-      <stop offset="1" stop-color="#071a2c"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#080B12"/>
+      <stop offset=".56" stop-color="#111827"/>
+      <stop offset="1" stop-color="#071C24"/>
     </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset=".55" stop-color="#2dd4bf"/>
-      <stop offset="1" stop-color="#a3e635"/>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#67E8F9"/>
+      <stop offset=".52" stop-color="#2DD4BF"/>
+      <stop offset="1" stop-color="#BEF264"/>
     </linearGradient>
-    <radialGradient id="glow">
-      <stop offset="0" stop-color="#22d3ee" stop-opacity=".28"/>
-      <stop offset="1" stop-color="#22d3ee" stop-opacity="0"/>
+    <radialGradient id="aura">
+      <stop offset="0" stop-color="#14B8A6" stop-opacity=".25"/>
+      <stop offset="1" stop-color="#14B8A6" stop-opacity="0"/>
     </radialGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#9bdcff" stroke-opacity=".08" stroke-width="1"/>
+    <pattern id="microgrid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#CBD5E1" stroke-opacity=".065" stroke-width="1"/>
+      <circle cx="0" cy="0" r="1" fill="#A5F3FC" fill-opacity=".18"/>
     </pattern>
-    <filter id="softGlow" x="-80%" y="-80%" width="260%" height="260%">
-      <feGaussianBlur stdDeviation="4" result="blur"/>
-      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="5" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <clipPath id="clip"><rect width="1200" height="380" rx="24"/></clipPath>
   </defs>
-  <rect width="1200" height="360" rx="24" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-  <circle cx="920" cy="170" r="290" fill="url(#glow)"/>
-  <g fill="none" stroke="url(#accent)" stroke-width="1.7" opacity=".8">
-    <path d="M670 360 C720 280 760 310 800 220 S900 170 940 220 S1050 270 1200 120" stroke-dasharray="8 12">
-      <animate attributeName="stroke-dashoffset" values="0;-160" dur="12s" repeatCount="indefinite"/>
-    </path>
-    <path d="M720 360 C790 290 820 310 860 245 S960 195 1010 240 S1110 240 1200 185" stroke-opacity=".45" stroke-dasharray="3 10">
-      <animate attributeName="stroke-dashoffset" values="0;130" dur="10s" repeatCount="indefinite"/>
-    </path>
-    <path d="M740 0 C800 70 840 45 890 105 S1000 130 1040 70 S1120 50 1200 95" stroke-opacity=".55"/>
-    <path d="M790 0 L790 360 M910 0 L910 360 M1030 0 L1030 360 M1150 0 L1150 360" stroke="#7dd3fc" stroke-opacity=".09"/>
+  <g clip-path="url(#clip)">
+    <rect width="1200" height="380" fill="url(#background)"/>
+    <rect width="1200" height="380" fill="url(#microgrid)"/>
+    <circle cx="930" cy="182" r="310" fill="url(#aura)"/>
+    <path d="M0 330 C200 260 330 405 560 320 S850 230 1200 300" fill="none" stroke="#2DD4BF" stroke-opacity=".12" stroke-width="1.5"/>
+    <path d="M0 346 C200 276 330 421 560 336 S850 246 1200 316" fill="none" stroke="#67E8F9" stroke-opacity=".1" stroke-width="1"/>
+    <g opacity=".95" fill="none" stroke="url(#signal)" stroke-width="1.7">
+      <path d="M700 380 C760 300 765 250 840 230 S935 175 990 202 S1095 260 1200 145" stroke-dasharray="5 11">
+        <animate attributeName="stroke-dashoffset" values="0;-128" dur="11s" repeatCount="indefinite"/>
+      </path>
+      <path d="M740 0 C790 72 850 38 890 92 S1000 132 1050 80 S1130 65 1200 112" stroke-opacity=".45" stroke-dasharray="3 9">
+        <animate attributeName="stroke-dashoffset" values="0;120" dur="14s" repeatCount="indefinite"/>
+      </path>
+      <path d="M750 300 L840 230 L930 268 L990 202 L1090 225 L1200 145" stroke-opacity=".22"/>
+      <path d="M840 230 L860 140 L960 115 L1050 80" stroke-opacity=".2"/>
+    </g>
+    <g fill="#0B1220" stroke="url(#signal)" stroke-width="2" filter="url(#glow)">
+      <circle cx="840" cy="230" r="5"><animate attributeName="r" values="4;7;4" dur="3s" repeatCount="indefinite"/></circle>
+      <circle cx="990" cy="202" r="6"><animate attributeName="r" values="5;8;5" dur="3.7s" repeatCount="indefinite"/></circle>
+      <circle cx="1090" cy="225" r="4"><animate attributeName="r" values="3;6;3" dur="2.6s" repeatCount="indefinite"/></circle>
+      <circle cx="1050" cy="80" r="5"><animate attributeName="r" values="4;7;4" dur="3.3s" repeatCount="indefinite"/></circle>
+      <circle cx="960" cy="115" r="4"/>
+    </g>
+    <g transform="translate(950 190)" fill="none" stroke="#67E8F9" stroke-opacity=".35">
+      <circle r="112" stroke-dasharray="2 10">
+        <animateTransform attributeName="transform" type="rotate" from="0" to="360" dur="48s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="82" stroke-dasharray="22 12" stroke-opacity=".5">
+        <animateTransform attributeName="transform" type="rotate" from="360" to="0" dur="36s" repeatCount="indefinite"/>
+      </circle>
+      <circle r="54" stroke-dasharray="1 8" stroke-opacity=".6"/>
+    </g>
+    <path d="M70 66 H116" stroke="url(#signal)" stroke-width="4" stroke-linecap="round"/>
+    <text x="70" y="104" fill="#A5F3FC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="3.6">TECHNOLOGY  /  DATA  /  STRATEGY</text>
+    <text x="64" y="184" fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="68" font-weight="800" letter-spacing="-3">Aman Jain</text>
+    <text x="72" y="225" fill="#D1D5DB" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500">Full Stack Developer</text>
+    <text x="72" y="258" fill="#99F6E4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="600">Consultant &amp; Data Analyst</text>
+    <text x="72" y="300" fill="#94A3B8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">I build digital experiences and turn complex information into clarity.</text>
+    <g transform="translate(72 326)">
+      <rect width="230" height="30" rx="15" fill="#FFFFFF" fill-opacity=".055" stroke="#67E8F9" stroke-opacity=".35"/>
+      <circle cx="16" cy="15" r="4" fill="#BEF264"><animate attributeName="opacity" values="1;.35;1" dur="2.2s" repeatCount="indefinite"/></circle>
+      <text x="29" y="20" fill="#E2E8F0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="600" letter-spacing="1.5">BUILD  ·  ANALYSE  ·  IMPROVE</text>
+    </g>
+    <text x="1130" y="348" fill="#A5F3FC" fill-opacity=".8" text-anchor="end" font-family="monospace" font-size="11" letter-spacing="1.8">NEW DELHI / IN</text>
   </g>
-  <g fill="#071426" stroke="url(#accent)" stroke-width="2" filter="url(#softGlow)">
-    <circle cx="800" cy="220" r="6"><animate attributeName="r" values="5;8;5" dur="3.4s" repeatCount="indefinite"/></circle>
-    <circle cx="940" cy="220" r="5"><animate attributeName="r" values="4;7;4" dur="2.8s" repeatCount="indefinite"/></circle>
-    <circle cx="1010" cy="240" r="5"><animate attributeName="r" values="4;7;4" dur="3.1s" repeatCount="indefinite"/></circle>
-    <circle cx="1040" cy="70" r="5"><animate attributeName="r" values="4;7;4" dur="3.7s" repeatCount="indefinite"/></circle>
-    <circle cx="890" cy="105" r="4"/>
-    <circle cx="1120" cy="50" r="4"/>
-  </g>
-  <g transform="translate(770 90)" fill="none" stroke="#7dd3fc" stroke-opacity=".5">
-    <circle cx="160" cy="90" r="100" stroke-dasharray="2 9">
-      <animateTransform attributeName="transform" type="rotate" from="0 160 90" to="360 160 90" dur="40s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="160" cy="90" r="72" stroke-dasharray="18 8" stroke-opacity=".35">
-      <animateTransform attributeName="transform" type="rotate" from="360 160 90" to="0 160 90" dur="32s" repeatCount="indefinite"/>
-    </circle>
-  </g>
-  <path d="M72 70 H132" stroke="url(#accent)" stroke-width="4" stroke-linecap="round"/>
-  <text x="72" y="132" fill="#a5f3fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="4">DEVELOPMENT  •  DATA  •  CONSULTING</text>
-  <text x="68" y="202" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="64" font-weight="800" letter-spacing="-2">Aman Jain</text>
-  <text x="72" y="244" fill="#dbeafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="500">Full Stack Developer</text>
-  <text x="72" y="276" fill="#99f6e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19" font-weight="500">Consultant &amp; Data Analyst</text>
-  <g transform="translate(72 310)">
-    <rect width="168" height="28" rx="14" fill="#ffffff" fill-opacity=".08" stroke="#7dd3fc" stroke-opacity=".45"/>
-    <circle cx="15" cy="14" r="4" fill="#4ade80"><animate attributeName="opacity" values="1;.35;1" dur="2s" repeatCount="indefinite"/></circle>
-    <text x="28" y="19" fill="#e0f2fe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" letter-spacing="1.2">BUILD • ANALYSE • IMPROVE</text>
-  </g>
-  <text x="1128" y="326" fill="#bae6fd" opacity=".75" text-anchor="end" font-family="monospace" font-size="12">NEW DELHI, INDIA</text>
 </svg>
