@@ -130,10 +130,10 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
   <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="44" alt="MySQL" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="44" alt="Supabase" />
   <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg"
-     width="44" height="44" alt="Microsoft SQL Server" />
+     height="44" alt="Microsoft SQL Server" />
 
 <img src="https://raw.githubusercontent.com/carbon-design-system/carbon/main/packages/icons/src/svg/32/ibm--db2.svg"
-     width="44" height="44" alt="IBM Db2" />
+     height="44" alt="IBM Db2" />
 </p>
 
 <p align="center"><strong>05 · Developer tools & collaboration</strong></p>
