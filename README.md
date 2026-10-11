@@ -109,7 +109,7 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 <p>
   <img src="https://img.shields.io/badge/AJAX-2C3E50?style=for-the-badge&logo=javascript&logoColor=white" alt="AJAX" />
-  <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=for-the-badge&logo= fastapi&logoColor=white" alt="REST APIs" />
+  <img src="https://img.shields.io/badge/REST%20APIs-0F766E?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
   <img src="https://img.shields.io/badge/API%20Integration-334155?style=for-the-badge&logo=linktree&logoColor=white" alt="API integration" />
 </p>
 
