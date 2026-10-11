@@ -11,7 +11,7 @@
 </a>
 
 <p>
-  <a href="https://www.anishjain.in/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
+  <a href="https://amanjaina.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
   <a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
   <a href="https://github.com/AmanJainA?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
 </p>
@@ -30,7 +30,7 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 - **Consulting:** Supporting Railway Board initiatives through TT&BRU, including business research, commercial studies, stakeholder consultations, field surveys, reports, and digital transformation.
 - **Development:** Responsive web applications, APIs, database-backed platforms, and productivity tools.
 - **Location:** New Delhi, India.
-- **Portfolio:** [anishjain.in](https://www.anishjain.in/)
+- **Portfolio:** [amanjaina.github.io/Portfolio](https://amanjaina.github.io/Portfolio/)
 
 <div align="center">
   <img src="./assets/workflow-motion.svg" alt="Animated workflow: Build, Analyse, Improve — featuring LifeHub, Railways, Interview and Notes" width="100%" />
@@ -128,7 +128,7 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 **Let's connect technology, data, and business to make something useful.**
 
-<a href="https://www.anishjain.in/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-anishjain.in-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
+<a href="https://amanjaina.github.io/Portfolio/"><img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-amanjaina.github.io/Portfolio-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Explore my portfolio" /></a>
 <a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/START%20A%20CONVERSATION-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Start a conversation on LinkedIn" /></a>
 
 <br/><br/>
