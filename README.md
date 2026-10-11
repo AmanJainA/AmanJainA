@@ -165,11 +165,17 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
   <img src="https://streak-stats.demolab.com?user=AmanJainA&hide_border=true&background=0D1117&ring=67E8F9&fire=BEF264&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub contribution streak" width="75%" />
 </div>
 
-### Contribution activity
+### Developer activity · in motion
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanJainA&bg_color=0D1117&color=C9D1D9&line=2DD4BF&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+  <a href="https://github.com/AmanJainA?tab=overview&from=2026-01-01&to=2026-12-31">
+    <img src="./assets/activity-motion.svg" alt="Animated developer loop: Code, Build, Analyse, Ship" width="100%" />
+  </a>
+  <br/>
+  <a href="https://github.com/AmanJainA?tab=overview">VIEW MY LIVE GITHUB CONTRIBUTIONS →</a>
 </div>
+
+> The external activity-graph image service is currently unreliable, so this section now uses a self-hosted animated SVG instead of showing a broken image. The live contribution history remains available on GitHub.
 
 ### Contribution snake
 
