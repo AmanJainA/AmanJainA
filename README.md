@@ -159,10 +159,26 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&show_icons=true&hide_border=true&bg_color=080B12&title_color=67E8F9&icon_color=2DD4BF&text_color=E2E8F0&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&layout=compact&hide_border=true&bg_color=080B12&title_color=67E8F9&text_color=E2E8F0" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=2DD4BF&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most used programming languages" />
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=AmanJainA&hide_border=true&background=080B12&ring=67E8F9&fire=BEF264&currStreakLabel=67E8F9&sideLabels=CBD5E1&dates=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC" alt="GitHub contribution streak" width="75%" />
+  <img src="https://streak-stats.demolab.com?user=AmanJainA&hide_border=true&background=0D1117&ring=67E8F9&fire=BEF264&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub contribution streak" width="75%" />
+</div>
+
+### Contribution activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanJainA&bg_color=0D1117&color=C9D1D9&line=2DD4BF&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
+</div>
+
+### Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AmanJainA/AmanJainA/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AmanJainA/AmanJainA/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated snake moving through my GitHub contribution grid" src="https://raw.githubusercontent.com/AmanJainA/AmanJainA/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ---
