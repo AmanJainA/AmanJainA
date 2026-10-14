@@ -146,12 +146,6 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
   </picture>
 </div>
 
-### Contribution activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanJainA&bg_color=0D1117&color=C9D1D9&line=2DD4BF&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
-</div>
-
 ### Contribution snake
 
 <div align="center">
