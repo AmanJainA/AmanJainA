@@ -128,20 +128,11 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
   </picture>
 </div>
 
-### Developer activity · in motion
+### Contribution activity
 
 <div align="center">
-  <a href="https://github.com/AmanJainA?tab=overview&from=2026-01-01&to=2026-12-31">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-motion.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="./assets/activity-motion-light.svg" />
-      <img src="./assets/activity-motion-light.svg" alt="Animated developer loop: Code, Build, Analyse, Ship" width="100%" />
-    </picture>
-  </a>
-  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmanJainA&bg_color=0D1117&color=C9D1D9&line=2DD4BF&point=67E8F9&area=true&hide_border=true" alt="GitHub contribution activity graph" width="100%" />
 </div>
-
-> The external activity-graph image service is currently unreliable, so this section now uses a self-hosted animated SVG instead of showing a broken image. The live contribution history remains available on GitHub.
 
 ### Contribution snake
 
