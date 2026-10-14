@@ -4,7 +4,7 @@
 
 <img src="./assets/profile-banner.svg" alt="Aman Jain — Full Stack Developer, Consultant and Data Analyst" width="100%" />
 
-<br/>
+<br/><br/>
 
 
 <p>
