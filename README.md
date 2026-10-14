@@ -35,58 +35,63 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 ## What I bring to a project
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>01 / Build</h3>
-      Create responsive, maintainable digital products with practical interfaces, integrations, and reliable data flows.
-      <br/><br/><sub>FULL STACK · APIS · DATABASES</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>02 / Analyse</h3>
-      Turn information and research into structured findings, clear reports, and decision-ready insights.
-      <br/><br/><sub>DATA · BUSINESS ANALYSIS · RESEARCH</sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>03 / Improve</h3>
-      Connect user and operational needs with business opportunities and implementable recommendations.
-      <br/><br/><sub>CONSULTING · STRATEGY · DIGITAL CHANGE</sub>
-    </td>
-  </tr>
-</table>
+<div>
+  <h3>01 / Build</h3>
+  Create responsive, maintainable digital products with practical interfaces, integrations, and reliable data flows.
+  <br/><sub>FULL STACK · APIS · DATABASES</sub>
+</div>
+
+<div>
+  <h3>02 / Analyse</h3>
+  Turn information and research into structured findings, clear reports, and decision-ready insights.
+  <br/><sub>DATA · BUSINESS ANALYSIS · RESEARCH</sub>
+</div>
+
+<div>
+  <h3>03 / Improve</h3>
+  Connect user and operational needs with business opportunities and implementable recommendations.
+  <br/><sub>CONSULTING · STRATEGY · DIGITAL CHANGE</sub>
+</div>
 
 ## Selected projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🏡 <a href="https://github.com/AmanJainA/LifeHub">LifeHub</a></h3>
-      <sub>PRODUCTIVITY · WEB APP</sub>
-      <p>A private personal workspace for signing in and keeping useful notes in one place. Capture information as it comes up, return to saved notes later, and keep your personal reference material organised instead of scattered across tabs and documents.</p>
-      <a href="https://github.com/AmanJainA/LifeHub"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore LifeHub repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚆 <a href="https://github.com/AmanJainA/Railways">Railways</a></h3>
-      <sub>RAILWAY · PORTAL</sub>
-      <p>A central place to browse railway-related information and work with organised operational records. The portal is intended to make information easier to find, review, and maintain, helping users spend less time switching between disconnected records.</p>
-      <a href="https://github.com/AmanJainA/Railways"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Railways repository" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/AmanJainA/Interview">Interview</a></h3>
-      <sub>LEARNING · ASSESSMENT</sub>
-      <p>A focused practice space for answering multiple-choice interview questions under timed conditions. Use it to simulate an assessment, test your knowledge, submit an attempt, and review results to identify topics that may need more preparation.</p>
-      <a href="https://github.com/AmanJainA/Interview"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Interview repository" /></a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📝 <a href="https://github.com/AmanJainA/Notes">Notes</a></h3>
-      <sub>KNOWLEDGE · ORGANISATION</sub>
-      <p>A lightweight place to capture, revisit, and organise written information while staying inside one simple interface. Use it for quick reference notes, study points, reminders, or ideas you want to return to without searching through separate documents.</p>
-      <a href="https://github.com/AmanJainA/Notes"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Notes repository" /></a>
-    </td>
-  </tr>
-</table>
+### 🏡 <a href="https://github.com/AmanJainA/LifeHub">LifeHub</a>
+
+<sub>PRODUCTIVITY · WEB APP</sub>
+
+A private personal workspace for signing in and keeping useful notes in one place. Capture information as it comes up, return to saved notes later, and keep your personal reference material organised instead of scattered across tabs and documents.
+
+<a href="https://github.com/AmanJainA/LifeHub"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore LifeHub repository" /></a>
+
+---
+
+### 🚆 <a href="https://github.com/AmanJainA/Railways">Railways</a>
+
+<sub>RAILWAY · PORTAL</sub>
+
+A central place to browse railway-related information and work with organised operational records. The portal is intended to make information easier to find, review, and maintain, helping users spend less time switching between disconnected records.
+
+<a href="https://github.com/AmanJainA/Railways"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Railways repository" /></a>
+
+---
+
+### 🧠 <a href="https://github.com/AmanJainA/Interview">Interview</a>
+
+<sub>LEARNING · ASSESSMENT</sub>
+
+A focused practice space for answering multiple-choice interview questions under timed conditions. Use it to simulate an assessment, test your knowledge, submit an attempt, and review results to identify topics that may need more preparation.
+
+<a href="https://github.com/AmanJainA/Interview"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Interview repository" /></a>
+
+---
+
+### 📝 <a href="https://github.com/AmanJainA/Notes">Notes</a>
+
+<sub>KNOWLEDGE · ORGANISATION</sub>
+
+A lightweight place to capture, revisit, and organise written information while staying inside one simple interface. Use it for quick reference notes, study points, reminders, or ideas you want to return to without searching through separate documents.
+
+<a href="https://github.com/AmanJainA/Notes"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Notes repository" /></a>
 
 <p align="center">
   <a href="https://github.com/AmanJainA?tab=repositories">VIEW ALL REPOSITORIES →</a>
@@ -122,24 +127,26 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 </p>
 
 <p align="center"><sub>Commercial Studies · Operational Research · Process Improvement · Decision Support · Strategic Recommendations</sub></p>
+
 ## GitHub at a glance
 
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmanJainA&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;icon_color=2DD4BF&amp;text_color=C9D1D9&amp;rank_icon=github" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AmanJainA&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;icon_color=0F766E&amp;text_color=24292F&amp;rank_icon=github" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;icon_color=0F766E&amp;text_color=24292F&amp;rank_icon=github" alt="GitHub profile statistics" />
+    <img src="https://github-readme-stats.vercel.app/api?username=AmanJainA&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;icon_color=0F766E&amp;text_color=24292F&amp;rank_icon=github" alt="GitHub profile statistics" width="100%" />
   </picture>
+  <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;text_color=C9D1D9" />
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=24292F" />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=24292F" alt="Most used programming languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=24292F" alt="Most used programming languages" width="100%" />
   </picture>
   <br/><br/>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AmanJainA&amp;hide_border=true&amp;background=0D1117&amp;ring=67E8F9&amp;fire=BEF264&amp;currStreakLabel=67E8F9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC" />
     <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AmanJainA&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=CF222E&amp;currStreakLabel=0969DA&amp;sideLabels=57606A&amp;dates=6E7781&amp;currStreakNum=24292F&amp;sideNums=24292F" />
-    <img src="https://streak-stats.demolab.com?user=AmanJainA&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=CF222E&amp;currStreakLabel=0969DA&amp;sideLabels=57606A&amp;dates=6E7781&amp;currStreakNum=24292F&amp;sideNums=24292F" alt="GitHub contribution streak" width="75%" />
+    <img src="https://streak-stats.demolab.com?user=AmanJainA&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=CF222E&amp;currStreakLabel=0969DA&amp;sideLabels=57606A&amp;dates=6E7781&amp;currStreakNum=24292F&amp;sideNums=24292F" alt="GitHub contribution streak" width="100%" />
   </picture>
 </div>
 
