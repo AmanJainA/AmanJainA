@@ -96,7 +96,7 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 ## Tools & capabilities
 
-The icons below use animated tech-stack artwork where available; the consulting capabilities are shown separately as labelled cards.
+Animated tech-stack icons are used for supported technologies; the remaining tools use compact technology icons. Consulting capabilities are shown separately as labelled cards.
 
 ### Development & data
 
@@ -104,10 +104,7 @@ The icons below use animated tech-stack artwork where available; the consulting 
   <strong>Frontend</strong><br/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="42" alt="Animated React icon" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="42" alt="Animated JavaScript icon" />
-  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="42" alt="Animated HTML icon" />
-  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="42" alt="Animated CSS icon" />
-  <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="42" alt="Animated Bootstrap icon" />
-  <img src="https://techstack-generator.vercel.app/jquery-icon.svg" width="42" alt="Animated jQuery icon" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,jquery" height="42" alt="HTML, CSS, Bootstrap and jQuery icons" />
   <br/><sub>React · JavaScript · HTML · CSS · Bootstrap · jQuery</sub>
 </p>
 
