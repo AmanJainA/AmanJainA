@@ -99,14 +99,14 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="42" alt="Animated React icon" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="42" alt="Animated JavaScript icon" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="42" alt="PHP icon" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="42" alt="Node.js icon" />
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="42" alt="Flutter icon" />
+  <img src="./assets/php-animated.svg" width="42" alt="Animated PHP icon" />
+  <img src="./assets/nodejs-animated.svg" width="42" alt="Animated Node.js icon" />
+  <img src="./assets/flutter-animated.svg" width="42" alt="Animated Flutter icon" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="42" alt="Animated MySQL icon" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="42" alt="Animated GitHub icon" />
   <img src="./assets/ibm-db2-animated.svg" width="48" alt="Animated IBM Db2 icon" />
   <img src="./assets/sql-server-animated.svg" width="48" alt="Animated Microsoft SQL Server icon" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,jquery,supabase,git,postman" height="42" alt="HTML, CSS, Bootstrap, jQuery, Supabase, Git and Postman icons" />
+  <img src="./assets/web-tools-animated.svg" width="420" alt="Animated HTML, CSS, Bootstrap, jQuery, Supabase, Git and Postman icons" />
 </p>
 
 <p align="center"><sub>React · JavaScript · HTML · CSS · Bootstrap · jQuery · PHP · Node.js · Flutter · MySQL · Supabase · Microsoft SQL Server · IBM Db2 · Git · GitHub · Postman</sub></p>
