@@ -7,7 +7,7 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1100&color=67E8F9&center=true&vCenter=true&width=820&height=45&lines=Aman+Jain;Full+Stack+Developer;Consultant+%26+Data+Analyst&repeat=true" alt="Animated name and alternating professional roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+Developer;Consultant+%26+Data+Analyst&repeat=true" alt="Animated name and alternating professional roles" />
 </a>
 
 <p>
@@ -64,13 +64,13 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
     <td width="50%" valign="top">
       <h3>🏡 <a href="https://github.com/AmanJainA/LifeHub">LifeHub</a></h3>
       <sub>PRODUCTIVITY · WEB APP</sub>
-      <p>A personal dashboard built around everyday productivity, with private sign-in and a notes workflow for capturing, saving, and revisiting information. Supabase supports authentication and data storage, so personal content stays connected to the signed-in user.</p>
+      <p>A private personal workspace for signing in and keeping useful notes in one place. Capture information as it comes up, return to saved notes later, and keep your personal reference material organised instead of scattered across tabs and documents.</p>
       <a href="https://github.com/AmanJainA/LifeHub"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore LifeHub repository" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🚆 <a href="https://github.com/AmanJainA/Railways">Railways</a></h3>
       <sub>RAILWAY · PORTAL</sub>
-      <p>A railway operations portal built with React and PHP/MySQL, designed to present structured railway information through a web interface backed by a database. It provides a foundation for centralised records and practical, data-driven workflows.</p>
+      <p>A central place to browse railway-related information and work with organised operational records. The portal is intended to make information easier to find, review, and maintain, helping users spend less time switching between disconnected records.</p>
       <a href="https://github.com/AmanJainA/Railways"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Railways repository" /></a>
     </td>
   </tr>
@@ -78,13 +78,13 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/AmanJainA/Interview">Interview</a></h3>
       <sub>LEARNING · ASSESSMENT</sub>
-      <p>An interview-practice platform where users can work through multiple-choice questions with timed assessments. Its Supabase-backed workflow supports question management, submitted results, and activity tracking—useful for practice as well as reviewing performance.</p>
+      <p>A focused practice space for answering multiple-choice interview questions under timed conditions. Use it to simulate an assessment, test your knowledge, submit an attempt, and review results to identify topics that may need more preparation.</p>
       <a href="https://github.com/AmanJainA/Interview"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Interview repository" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📝 <a href="https://github.com/AmanJainA/Notes">Notes</a></h3>
       <sub>KNOWLEDGE · ORGANISATION</sub>
-      <p>A browser-based notes app focused on quick capture and organised access to written information. Its React routing keeps navigation within the app, making it a lightweight place to store and return to useful notes.</p>
+      <p>A lightweight place to capture, revisit, and organise written information while staying inside one simple interface. Use it for quick reference notes, study points, reminders, or ideas you want to return to without searching through separate documents.</p>
       <a href="https://github.com/AmanJainA/Notes"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Notes repository" /></a>
     </td>
   </tr>
@@ -96,16 +96,67 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 ## Tools & capabilities
 
+The icons below use animated tech-stack artwork where available; the consulting capabilities are shown separately as labelled cards.
+
+### Development & data
+
 <p align="center">
-  <strong>Frontend</strong>&nbsp; <img src="https://techstack-generator.vercel.app/react-icon.svg" width="28" alt="Animated React icon" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="28" alt="Animated JavaScript icon" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,jquery" height="28" alt="HTML, CSS, Bootstrap and jQuery" /> &nbsp;·&nbsp;
-  <strong>Backend & APIs</strong>&nbsp; <img src="https://techstack-generator.vercel.app/php-icon.svg" width="28" alt="Animated PHP icon" /> <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="28" alt="Animated Node.js icon" /> &nbsp;·&nbsp;
-  <strong>Mobile</strong>&nbsp; <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="28" alt="Animated Flutter icon" /> &nbsp;·&nbsp;
-  <strong>Databases</strong>&nbsp; <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="28" alt="Animated MySQL icon" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,microsoftsqlserver,ibmdb2" height="28" alt="Supabase, SQL Server and IBM Db2" /> &nbsp;·&nbsp;
-  <strong>Tools</strong>&nbsp; <img src="https://techstack-generator.vercel.app/github-icon.svg" width="28" alt="Animated GitHub icon" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman" height="28" alt="Git and Postman" /> &nbsp;·&nbsp;
-  <strong>Consulting & Analysis</strong>&nbsp; 📊 📈 🔎 🤝 📝 ⚙️
+  <strong>Frontend</strong><br/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="42" alt="Animated React icon" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="42" alt="Animated JavaScript icon" />
+  <img src="https://techstack-generator.vercel.app/html-icon.svg" width="42" alt="Animated HTML icon" />
+  <img src="https://techstack-generator.vercel.app/css-icon.svg" width="42" alt="Animated CSS icon" />
+  <img src="https://techstack-generator.vercel.app/bootstrap-icon.svg" width="42" alt="Animated Bootstrap icon" />
+  <img src="https://techstack-generator.vercel.app/jquery-icon.svg" width="42" alt="Animated jQuery icon" />
+  <br/><sub>React · JavaScript · HTML · CSS · Bootstrap · jQuery</sub>
 </p>
 
-<sub align="center">React · JavaScript · HTML/CSS · PHP · Node.js · Flutter · MySQL · Supabase · SQL Server · IBM Db2 · Git/GitHub · Postman · Data & Business Analysis · Market Research · Stakeholder Engagement · Reporting · Digital Transformation</sub>
+<p align="center">
+  <strong>Backend & APIs</strong><br/>
+  <img src="https://techstack-generator.vercel.app/php-icon.svg" width="42" alt="Animated PHP icon" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="42" alt="Animated Node.js icon" />
+  <br/><sub>PHP · Node.js · APIs</sub>
+</p>
+
+<p align="center">
+  <strong>Mobile</strong><br/>
+  <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="42" alt="Animated Flutter icon" />
+  <br/><sub>Flutter</sub>
+</p>
+
+<p align="center">
+  <strong>Databases & platforms</strong><br/>
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="42" alt="Animated MySQL icon" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" height="42" alt="Supabase icon" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=microsoftsqlserver" height="42" alt="Microsoft SQL Server icon" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=ibmdb2" height="42" alt="IBM Db2 icon" />
+  <br/><sub>MySQL · Supabase · Microsoft SQL Server · IBM Db2</sub>
+</p>
+
+<p align="center">
+  <strong>Developer tools</strong><br/>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="42" alt="Animated GitHub icon" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="42" alt="Git icon" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" height="42" alt="Postman icon" />
+  <br/><sub>Git · GitHub · Postman</sub>
+</p>
+
+### Consulting & Analysis
+
+<table>
+  <tr>
+    <td align="center" width="33%"><strong>📊</strong><br/>Data Analysis</td>
+    <td align="center" width="33%"><strong>📈</strong><br/>Business Analysis</td>
+    <td align="center" width="33%"><strong>🔎</strong><br/>Market Research</td>
+  </tr>
+  <tr>
+    <td align="center"><strong>🤝</strong><br/>Stakeholder Engagement</td>
+    <td align="center"><strong>📝</strong><br/>Reporting & Documentation</td>
+    <td align="center"><strong>⚙️</strong><br/>Digital Transformation</td>
+  </tr>
+</table>
+
+<sub>Commercial Studies · Operational Research · Process Improvement · Decision Support · Strategic Recommendations</sub>
 
 ## GitHub at a glance
 
