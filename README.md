@@ -6,9 +6,6 @@
 
 <br/>
 
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&duration=2600&pause=900&color=67E8F9&center=true&vCenter=true&width=620&height=45&lines=Full+Stack+Developer;Consultant+%26+Data+Analyst&repeat=true" alt="Animated name and alternating professional roles" />
-</a>
 
 <p>
   <a href="mailto:amanjain033@gmail.com"><img src="https://img.shields.io/badge/EMAIL-amanjain033%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aman Jain at amanjain033@gmail.com" /></a>
