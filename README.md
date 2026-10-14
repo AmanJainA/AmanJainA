@@ -101,9 +101,9 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 <p align="center">
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="42" alt="Animated React icon" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="42" alt="Animated JavaScript icon" />
-  <img src="https://techstack-generator.vercel.app/php-icon.svg" width="42" alt="Animated PHP icon" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="42" alt="Animated Node.js icon" />
-  <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="42" alt="Animated Flutter icon" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/php.png" width="42" alt="PHP icon" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/node_js.png" width="42" alt="Node.js icon" />
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="42" alt="Flutter icon" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="42" alt="Animated MySQL icon" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="42" alt="Animated GitHub icon" />
   <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,jquery,supabase,microsoftsqlserver,ibmdb2,git,postman" height="42" alt="HTML, CSS, Bootstrap, jQuery, Supabase, Microsoft SQL Server, IBM Db2, Git and Postman icons" />
