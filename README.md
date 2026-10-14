@@ -114,11 +114,11 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 ### Consulting & Analysis
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DATA-Analysis-0F766E?style=for-the-badge&logo=googlesheets&logoColor=white" alt="📊 Data Analysis" />
-  <img src="https://img.shields.io/badge/BUSINESS-Analysis-365EBD?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="📈 Business Analysis" />
-  <img src="https://img.shields.io/badge/MARKET-Research-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="🔎 Market Research" />
-  <img src="https://img.shields.io/badge/STAKEHOLDER-Engagement-0E7490?style=for-the-badge&logo=microsoftteams&logoColor=white" alt="🤝 Stakeholder Engagement" />
-  <img src="https://img.shields.io/badge/DIGITAL-Transformation-475569?style=for-the-badge&logo=dependabot&logoColor=white" alt="⚙️ Digital Transformation" />
+  <img src="https://img.shields.io/badge/DATA-Analysis-0F766E?style=for-the-badge&logo=googlesheets&logoColor=white&labelColor=0F766E" alt="📊 Data Analysis" />
+  <img src="https://img.shields.io/badge/BUSINESS-Analysis-365EBD?style=for-the-badge&logo=googleanalytics&logoColor=white&labelColor=365EBD" alt="📈 Business Analysis" />
+  <img src="https://img.shields.io/badge/MARKET-Research-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=7C3AED" alt="🔎 Market Research" />
+  <img src="https://img.shields.io/badge/STAKEHOLDER-Engagement-0E7490?style=for-the-badge&logo=microsoftteams&logoColor=white&labelColor=0E7490" alt="🤝 Stakeholder Engagement" />
+  <img src="https://img.shields.io/badge/DIGITAL-Transformation-475569?style=for-the-badge&logo=dependabot&logoColor=white&labelColor=475569" alt="⚙️ Digital Transformation" />
 </p>
 
 <p align="center"><sub>Commercial Studies · Operational Research · Process Improvement · Decision Support · Strategic Recommendations</sub></p>
