@@ -11,7 +11,7 @@
 </a>
 
 <p>
-  <a href="https://amanjaina.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Selected%20Work-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View selected work on my portfolio" /></a>
+  <a href="mailto:amanjain033@gmail.com"><img src="https://img.shields.io/badge/EMAIL-amanjain033%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aman Jain at amanjain033@gmail.com" /></a>
   <a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View my LinkedIn profile" /></a>
 </p>
 
@@ -106,7 +106,9 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" width="42" alt="Flutter icon" />
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="42" alt="Animated MySQL icon" />
   <img src="https://techstack-generator.vercel.app/github-icon.svg" width="42" alt="Animated GitHub icon" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,jquery,supabase,microsoftsqlserver,ibmdb2,git,postman" height="42" alt="HTML, CSS, Bootstrap, jQuery, Supabase, Microsoft SQL Server, IBM Db2, Git and Postman icons" />
+  <img src="./assets/ibm-db2-animated.svg" width="48" alt="Animated IBM Db2 icon" />
+  <img src="./assets/sql-server-animated.svg" width="48" alt="Animated Microsoft SQL Server icon" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,jquery,supabase,git,postman" height="42" alt="HTML, CSS, Bootstrap, jQuery, Supabase, Git and Postman icons" />
 </p>
 
 <p align="center"><sub>React · JavaScript · HTML · CSS · Bootstrap · jQuery · PHP · Node.js · Flutter · MySQL · Supabase · Microsoft SQL Server · IBM Db2 · Git · GitHub · Postman</sub></p>
