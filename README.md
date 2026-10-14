@@ -116,18 +116,16 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 ### Consulting & Analysis
 
-<table>
-  <tr>
-    <td align="center"><strong>📊</strong><br/>Data Analysis</td>
-    <td align="center"><strong>📈</strong><br/>Business Analysis</td>
-    <td align="center"><strong>🔎</strong><br/>Market Research</td>
-    <td align="center"><strong>🤝</strong><br/>Stakeholder Engagement</td>
-    <td align="center"><strong>📝</strong><br/>Reporting & Documentation</td>
-    <td align="center"><strong>⚙️</strong><br/>Digital Transformation</td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/DATA-Analysis-0F766E?style=for-the-badge&logo=googlesheets&logoColor=white" alt="Data Analysis" />
+  <img src="https://img.shields.io/badge/BUSINESS-Analysis-365EBD?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Business Analysis" />
+  <img src="https://img.shields.io/badge/MARKET-Research-7C3AED?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Market Research" />
+  <img src="https://img.shields.io/badge/STAKEHOLDER-Engagement-0E7490?style=for-the-badge&logo= handshake&logoColor=white" alt="Stakeholder Engagement" />
+  <img src="https://img.shields.io/badge/REPORTING-Documentation-B45309?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Reporting and Documentation" />
+  <img src="https://img.shields.io/badge/DIGITAL-Transformation-475569?style=for-the-badge&logo=dependabot&logoColor=white" alt="Digital Transformation" />
+</p>
 
-<sub>Commercial Studies · Operational Research · Process Improvement · Decision Support · Strategic Recommendations</sub>
+<p align="center"><sub>Commercial Studies · Operational Research · Process Improvement · Decision Support · Strategic Recommendations</sub></p>
 
 ## GitHub at a glance
 
