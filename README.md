@@ -96,57 +96,28 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 ## Tools & capabilities
 
-Animated tech-stack icons are used for supported technologies; the remaining tools use compact technology icons. Consulting capabilities are shown separately as labelled cards.
-
 ### Development & data
 
 <p align="center">
-  <strong>Frontend</strong><br/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" width="42" alt="Animated React icon" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" width="42" alt="Animated JavaScript icon" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,jquery" height="42" alt="HTML, CSS, Bootstrap and jQuery icons" />
-  <br/><sub>React · JavaScript · HTML · CSS · Bootstrap · jQuery</sub>
-</p>
-
-<p align="center">
-  <strong>Backend & APIs</strong><br/>
   <img src="https://techstack-generator.vercel.app/php-icon.svg" width="42" alt="Animated PHP icon" />
   <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="42" alt="Animated Node.js icon" />
-  <br/><sub>PHP · Node.js · APIs</sub>
-</p>
-
-<p align="center">
-  <strong>Mobile</strong><br/>
   <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="42" alt="Animated Flutter icon" />
-  <br/><sub>Flutter</sub>
-</p>
-
-<p align="center">
-  <strong>Databases & platforms</strong><br/>
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="42" alt="Animated MySQL icon" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" height="42" alt="Supabase icon" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=microsoftsqlserver" height="42" alt="Microsoft SQL Server icon" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=ibmdb2" height="42" alt="IBM Db2 icon" />
-  <br/><sub>MySQL · Supabase · Microsoft SQL Server · IBM Db2</sub>
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="42" alt="Animated GitHub icon" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,jquery,supabase,microsoftsqlserver,ibmdb2,git,postman" height="42" alt="HTML, CSS, Bootstrap, jQuery, Supabase, Microsoft SQL Server, IBM Db2, Git and Postman icons" />
 </p>
 
-<p align="center">
-  <strong>Developer tools</strong><br/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="42" alt="Animated GitHub icon" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" height="42" alt="Git icon" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" height="42" alt="Postman icon" />
-  <br/><sub>Git · GitHub · Postman</sub>
-</p>
+<p align="center"><sub>React · JavaScript · HTML · CSS · Bootstrap · jQuery · PHP · Node.js · Flutter · MySQL · Supabase · Microsoft SQL Server · IBM Db2 · Git · GitHub · Postman</sub></p>
 
 ### Consulting & Analysis
 
 <table>
   <tr>
-    <td align="center" width="33%"><strong>📊</strong><br/>Data Analysis</td>
-    <td align="center" width="33%"><strong>📈</strong><br/>Business Analysis</td>
-    <td align="center" width="33%"><strong>🔎</strong><br/>Market Research</td>
-  </tr>
-  <tr>
+    <td align="center"><strong>📊</strong><br/>Data Analysis</td>
+    <td align="center"><strong>📈</strong><br/>Business Analysis</td>
+    <td align="center"><strong>🔎</strong><br/>Market Research</td>
     <td align="center"><strong>🤝</strong><br/>Stakeholder Engagement</td>
     <td align="center"><strong>📝</strong><br/>Reporting & Documentation</td>
     <td align="center"><strong>⚙️</strong><br/>Digital Transformation</td>
