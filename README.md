@@ -7,13 +7,12 @@
 <br/>
 
 <a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=18&pause=1200&color=67E8F9&center=true&vCenter=true&width=820&lines=I+build+digital+products+with+purpose.;I+turn+data+into+clear+decisions.;I+connect+technology%2C+business+and+strategy.;I+turn+complex+problems+into+practical+solutions." alt="Animated introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=22&pause=1100&color=67E8F9&center=true&vCenter=true&width=820&height=45&lines=Aman+Jain;Full+Stack+Developer;Consultant+%26+Data+Analyst&repeat=true" alt="Animated name and alternating professional roles" />
 </a>
 
 <p>
-  <a href="https://amanjaina.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio" /></a>
-  <a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-  <a href="https://github.com/AmanJainA?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-Projects-111827?style=for-the-badge&logo=github&logoColor=white" alt="Explore projects" /></a>
+  <a href="https://amanjaina.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Selected%20Work-0F766E?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View selected work on my portfolio" /></a>
+  <a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View my LinkedIn profile" /></a>
 </p>
 
 </div>
@@ -65,13 +64,13 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
     <td width="50%" valign="top">
       <h3>🏡 <a href="https://github.com/AmanJainA/LifeHub">LifeHub</a></h3>
       <sub>PRODUCTIVITY · WEB APP</sub>
-      <p>A personal productivity and life-management application focused on keeping everyday information and workflows organised.</p>
+      <p>A personal dashboard built around everyday productivity, with private sign-in and a notes workflow for capturing, saving, and revisiting information. Supabase supports authentication and data storage, so personal content stays connected to the signed-in user.</p>
       <a href="https://github.com/AmanJainA/LifeHub"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore LifeHub repository" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>🚆 <a href="https://github.com/AmanJainA/Railways">Railways</a></h3>
       <sub>RAILWAY · PORTAL</sub>
-      <p>A railway-focused web portal project bringing structured information and digital workflows into one place.</p>
+      <p>A railway operations portal built with React and PHP/MySQL, designed to present structured railway information through a web interface backed by a database. It provides a foundation for centralised records and practical, data-driven workflows.</p>
       <a href="https://github.com/AmanJainA/Railways"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Railways repository" /></a>
     </td>
   </tr>
@@ -79,13 +78,13 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
     <td width="50%" valign="top">
       <h3>🧠 <a href="https://github.com/AmanJainA/Interview">Interview</a></h3>
       <sub>LEARNING · ASSESSMENT</sub>
-      <p>An interview-preparation and MCQ practice application with assessment-oriented features.</p>
+      <p>An interview-practice platform where users can work through multiple-choice questions with timed assessments. Its Supabase-backed workflow supports question management, submitted results, and activity tracking—useful for practice as well as reviewing performance.</p>
       <a href="https://github.com/AmanJainA/Interview"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Interview repository" /></a>
     </td>
     <td width="50%" valign="top">
       <h3>📝 <a href="https://github.com/AmanJainA/Notes">Notes</a></h3>
       <sub>KNOWLEDGE · ORGANISATION</sub>
-      <p>A notes application for capturing, organising, and revisiting information and ideas.</p>
+      <p>A browser-based notes app focused on quick capture and organised access to written information. Its React routing keeps navigation within the app, making it a lightweight place to store and return to useful notes.</p>
       <a href="https://github.com/AmanJainA/Notes"><img src="https://img.shields.io/badge/EXPLORE-Repository-0F766E?style=flat-square&logo=github" alt="Explore Notes repository" /></a>
     </td>
   </tr>
@@ -97,64 +96,16 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 
 ## Tools & capabilities
 
-<p align="center"><strong>01 · Frontend development</strong></p>
-
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="44" alt="HTML" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="44" alt="CSS" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=js" width="44" alt="JavaScript" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=bootstrap" width="44" alt="Bootstrap" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jquery" width="44" alt="jQuery" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="44" alt="React" />
+  <strong>Frontend</strong>&nbsp; <img src="https://techstack-generator.vercel.app/react-icon.svg" width="28" alt="Animated React icon" /> <img src="https://techstack-generator.vercel.app/js-icon.svg" width="28" alt="Animated JavaScript icon" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,bootstrap,jquery" height="28" alt="HTML, CSS, Bootstrap and jQuery" /> &nbsp;·&nbsp;
+  <strong>Backend & APIs</strong>&nbsp; <img src="https://techstack-generator.vercel.app/php-icon.svg" width="28" alt="Animated PHP icon" /> <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" width="28" alt="Animated Node.js icon" /> &nbsp;·&nbsp;
+  <strong>Mobile</strong>&nbsp; <img src="https://techstack-generator.vercel.app/flutter-icon.svg" width="28" alt="Animated Flutter icon" /> &nbsp;·&nbsp;
+  <strong>Databases</strong>&nbsp; <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="28" alt="Animated MySQL icon" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase,microsoftsqlserver,ibmdb2" height="28" alt="Supabase, SQL Server and IBM Db2" /> &nbsp;·&nbsp;
+  <strong>Tools</strong>&nbsp; <img src="https://techstack-generator.vercel.app/github-icon.svg" width="28" alt="Animated GitHub icon" /> <img src="https://go-skill-icons.vercel.app/api/icons?i=git,postman" height="28" alt="Git and Postman" /> &nbsp;·&nbsp;
+  <strong>Consulting & Analysis</strong>&nbsp; 📊 📈 🔎 🤝 📝 ⚙️
 </p>
 
-<p align="center"><strong>02 · Backend development & APIs</strong></p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=php" width="44" alt="PHP" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="44" alt="Node.js" />
-</p>
-<p align="center">
-</p>
-
-<p align="center"><strong>03 · Mobile development</strong></p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter" width="44" alt="Flutter" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=androidstudio" width="44" alt="Android Studio" />
-</p>
-
-<p align="center"><strong>04 · Databases & backend platforms</strong></p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=mysql" width="44" alt="MySQL" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=supabase" width="44" alt="Supabase" />
-  <img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/Microsoft_SQL_Server_2025_icon.svg"
-     width="44" alt="Microsoft SQL Server" />
-<img src="https://raw.githubusercontent.com/carbon-design-system/carbon/main/packages/icons/src/svg/32/ibm--db2.svg"
-     width="44"  alt="IBM Db2" />
-</p>
-
-<p align="center"><strong>05 · Developer tools & collaboration</strong></p>
-
-<p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="44" alt="Git" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="44" alt="GitHub" />
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="44" alt="Postman" />
-</p>
-
-<p align="center"><strong>06 · Consulting, data & business analysis</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📊_Data_Analysis-0F766E?style=for-the-badge" alt="Data analysis" />
-  <img src="https://img.shields.io/badge/📈_Business_Analysis-2563EB?style=for-the-badge" alt="Business analysis" />
-  <img src="https://img.shields.io/badge/🔎_Market_Research-7C3AED?style=for-the-badge" alt="Market research" />
-  <img src="https://img.shields.io/badge/🤝_Stakeholder_Engagement-0F766E?style=for-the-badge" alt="Stakeholder engagement" />
-  <img src="https://img.shields.io/badge/📝_Field_Surveys-B45309?style=for-the-badge" alt="Field surveys" />
-  <img src="https://img.shields.io/badge/📄_Report_Writing-475569?style=for-the-badge" alt="Report writing" />
-  <img src="https://img.shields.io/badge/📊_Presentations-9333EA?style=for-the-badge" alt="Presentations" />
-  <img src="https://img.shields.io/badge/⚙️_Digital_Transformation-334155?style=for-the-badge" alt="Digital transformation" />
-</p>
+<sub align="center">React · JavaScript · HTML/CSS · PHP · Node.js · Flutter · MySQL · Supabase · SQL Server · IBM Db2 · Git/GitHub · Postman · Data & Business Analysis · Market Research · Stakeholder Engagement · Reporting · Digital Transformation</sub>
 
 ## GitHub at a glance
 
@@ -188,7 +139,6 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
     </picture>
   </a>
   <br/>
-  <a href="https://github.com/AmanJainA?tab=overview">VIEW MY LIVE GITHUB CONTRIBUTIONS →</a>
 </div>
 
 > The external activity-graph image service is currently unreliable, so this section now uses a self-hosted animated SVG instead of showing a broken image. The live contribution history remains available on GitHub.
