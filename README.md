@@ -159,17 +159,33 @@ I enjoy moving between understanding a problem, exploring the evidence, and buil
 ## GitHub at a glance
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&show_icons=true&hide_border=true&bg_color=0D1117&title_color=67E8F9&icon_color=2DD4BF&text_color=C9D1D9&rank_icon=github" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&layout=compact&hide_border=true&bg_color=0D1117&title_color=67E8F9&text_color=C9D1D9" alt="Most used programming languages" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmanJainA&amp;show_icons=true&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;icon_color=2DD4BF&amp;text_color=C9D1D9&amp;rank_icon=github" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AmanJainA&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;icon_color=0F766E&amp;text_color=24292F&amp;rank_icon=github" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=AmanJainA&amp;show_icons=true&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;icon_color=0F766E&amp;text_color=24292F&amp;rank_icon=github" alt="GitHub profile statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&amp;layout=compact&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=67E8F9&amp;text_color=C9D1D9" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=24292F" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmanJainA&amp;layout=compact&amp;hide_border=true&amp;bg_color=FFFFFF&amp;title_color=0969DA&amp;text_color=24292F" alt="Most used programming languages" />
+  </picture>
   <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=AmanJainA&hide_border=true&background=0D1117&ring=67E8F9&fire=BEF264&currStreakLabel=67E8F9&sideLabels=C9D1D9&dates=8B949E&currStreakNum=F0F6FC&sideNums=F0F6FC" alt="GitHub contribution streak" width="75%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=AmanJainA&amp;hide_border=true&amp;background=0D1117&amp;ring=67E8F9&amp;fire=BEF264&amp;currStreakLabel=67E8F9&amp;sideLabels=C9D1D9&amp;dates=8B949E&amp;currStreakNum=F0F6FC&amp;sideNums=F0F6FC" />
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=AmanJainA&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=CF222E&amp;currStreakLabel=0969DA&amp;sideLabels=57606A&amp;dates=6E7781&amp;currStreakNum=24292F&amp;sideNums=24292F" />
+    <img src="https://streak-stats.demolab.com?user=AmanJainA&amp;hide_border=true&amp;background=FFFFFF&amp;ring=0969DA&amp;fire=CF222E&amp;currStreakLabel=0969DA&amp;sideLabels=57606A&amp;dates=6E7781&amp;currStreakNum=24292F&amp;sideNums=24292F" alt="GitHub contribution streak" width="75%" />
+  </picture>
 </div>
 
 ### Developer activity · in motion
 
 <div align="center">
   <a href="https://github.com/AmanJainA?tab=overview&from=2026-01-01&to=2026-12-31">
-    <img src="./assets/activity-motion.svg" alt="Animated developer loop: Code, Build, Analyse, Ship" width="100%" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-motion.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="./assets/activity-motion-light.svg" />
+      <img src="./assets/activity-motion-light.svg" alt="Animated developer loop: Code, Build, Analyse, Ship" width="100%" />
+    </picture>
   </a>
   <br/>
   <a href="https://github.com/AmanJainA?tab=overview">VIEW MY LIVE GITHUB CONTRIBUTIONS →</a>
