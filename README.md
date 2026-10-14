@@ -12,6 +12,7 @@
 
 <p>
   <a href="mailto:amanjain033@gmail.com"><img src="https://img.shields.io/badge/EMAIL-amanjain033%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Aman Jain at amanjain033@gmail.com" /></a>
+  <a href="https://amanjaina.github.io/Portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-Selected%20Work-365EBD?style=for-the-badge&logo=googlechrome&logoColor=white" alt="View selected work on my portfolio" /></a>
   <a href="https://www.linkedin.com/in/aman-jain-269684184/"><img src="https://img.shields.io/badge/LINKEDIN-Professional%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="View my LinkedIn profile" /></a>
 </p>
 
