@@ -27,12 +27,12 @@
     <clipPath id="clip"><rect width="1200" height="380" rx="24"/></clipPath>
     <clipPath id="roleClipA">
       <rect x="68" y="199" width="0" height="48">
-        <animate attributeName="width" values="0;480;480;0;0" keyTimes="0;0.22;0.38;0.48;1" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="width" calcMode="discrete" values="0;24;48;72;96;120;144;168;192;216;240;264;288;312;336;360;384;408;432;456;480;480;0;0" keyTimes="0;0.011;0.022;0.033;0.044;0.055;0.066;0.077;0.088;0.099;0.11;0.121;0.132;0.143;0.154;0.165;0.176;0.187;0.198;0.209;0.22;0.38;0.48;1" dur="10s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
     <clipPath id="roleClipB">
       <rect x="68" y="199" width="0" height="48">
-        <animate attributeName="width" values="0;0;610;610;0;0" keyTimes="0;0.48;0.72;0.9;0.98;1" dur="10s" repeatCount="indefinite"/>
+        <animate attributeName="width" calcMode="discrete" values="0;0;24.4;48.8;73.2;97.6;122;146.4;170.8;195.2;219.6;244;268.4;292.8;317.2;341.6;366;390.4;414.8;439.2;463.6;488;512.4;536.8;561.2;585.6;610;610;0;0" keyTimes="0;0.48;0.4896;0.4992;0.5088;0.5184;0.528;0.5376;0.5472;0.5568;0.5664;0.576;0.5856;0.5952;0.6048;0.6144;0.624;0.6336;0.6432;0.6528;0.6624;0.672;0.6816;0.6912;0.7008;0.7104;0.72;0.9;0.98;1" dur="10s" repeatCount="indefinite"/>
       </rect>
     </clipPath>
   </defs>
